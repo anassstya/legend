@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "webpack-dev-server",
-    "start": "webpack",
-    "babel": "babel-loader"
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
